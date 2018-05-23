@@ -1,0 +1,13 @@
+{
+	"name": "multi-packages",
+	"description": "A repo for testing multi-packages",
+	"author": "Mactavish",
+	"license": "MIT",
+	"files": [
+		"pacakges"
+	],
+	"repository": "https://github.com/Mactaivsh/multi-packages",
+	"devDependencies": {
+		"lerna": "^2.10.2"
+	}
+}
