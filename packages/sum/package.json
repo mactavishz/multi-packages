@@ -1,0 +1,8 @@
+{
+  "name": "sum",
+  "version": "1.0.1",
+  "description": "sum",
+  "main": "index.js",
+  "author": "Mactavish",
+  "license": "MIT"
+}
