@@ -1,8 +1,9 @@
 {
   "name": "divide",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "divide",
   "main": "index.js",
   "author": "Mactavish",
+  "repository": "https://github.com/Mactaivsh/multi-packages",
   "license": "MIT"
 }
