@@ -1,5 +1,6 @@
 {
 	"name": "multi-packages",
+	"version": "1.0.0",
 	"description": "A repo for testing multi-packages",
 	"author": "Mactavish",
 	"license": "MIT",
